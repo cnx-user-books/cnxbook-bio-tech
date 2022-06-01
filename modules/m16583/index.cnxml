@@ -1,0 +1,47 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Ten Mistakes to Avoid While Writing a Thesis</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>1107f2d6-fc98-4a94-a71b-7f103b9fdd95</md:uuid>
+</metadata>
+  <content>
+    <section id="id-0861791880377">
+      <title>Not clearly identifying the precise focus of your research. </title>
+      <para id="id11957148">Too often writers fail to identify the focus of their research until several pages into the Introduction. Readers need to know up front, in the Abstract and in the Introduction, precisely what problem you are addressing and why. You must state a claim that summarizes what you identified as needing to be done and what you did to fill that need.</para>
+    </section>
+    <section id="id-486340790213">
+      <title>Not telling us why your work is important. </title>
+      <para id="id11746656">Why should any reader care about your research contribution? You must answer the question, “So what?”</para>
+    </section>
+    <section id="id-584731262139">
+      <title>Not clearly identifying and defending your choice of method(s) to solve the question addressed in your research. </title>
+      <para id="id9845057">You almost always have a choice of methods. Why did you choose the one(s) you did? Why not other available ones? You must justify your choice.</para>
+    </section>
+    <section id="id-153997889929">
+      <title>Not situating your work within the context of other work in the field. </title>
+      <para id="id9845073">All research in science and engineering is incremental, growing out of the research of others. You need to show how your work fits into closely related research and into the wider field. How does your research grow out of, improve, generalize, test, or newly implement the work of others? </para>
+    </section>
+    <section id="id-680252990238">
+      <title>Not clearly differentiating your work from that of others. </title>
+      <para id="id10850361">I have read many Literature Reviews in which it was not clear what had been done by others and what the student had contributed. Writing “It has been discovered that…” does not indicate that you have moved from discussing others’ work to reporting on your own research. As we read a Literature Review, it should always be clear how your work links with the work of others, but it should also always be clear exactly which portions refer to your own research findings.</para>
+    </section>
+    <section id="id-0671438309834">
+      <title>Not defining and defending all assumptions. </title>
+      <para id="id11067467">Every time you write “I assume…” you must defend and explain the reason for the assumption. If your basic assumptions are incorrect, your research will not be valid. Similarly, if you write that you limit your work to one aspect of a problem (to 1D simulations, for example), you must explain why that limitation is valid.</para>
+    </section>
+    <section id="id-127433162228">
+      <title>Not providing a suitable level of detail and explanation. </title>
+      <para id="id9858728">As you write the body chapters, remember that you now know more about this area of research than anybody else. I have never had a student’s advisor complain that the explanations were too clear; I have had many who complained that the writer assumed too much expert knowledge on the part of the reader. Think carefully about what terms, procedures, and results need to be explained. Identify and include steps that you might have left out because you were so familiar with them. Give enough detail about experiments so that they could be replicated. Use bulleted lists for easy reading. Put non-essential data and computer code into an Appendix. </para>
+    </section>
+    <section id="id-740950084792">
+      <title>Not clearly identifying your unique contribution(s). </title>
+      <para id="id10378620">Your unique contribution must be clear in the Abstract, the Introduction, and the Discussion/Conclusions section. Work hard on this—many a Job Talk has failed because the speaker failed to identify clearly and precisely his or her contribution to the field. And don’t say “we.” Give your advisor credit, but present the thesis or dissertation as your work. Your advisor already has a degree and a job.</para>
+    </section>
+    <section id="id-954027899853">
+      <title>Not identifying possible applications, either theoretical or practical. </title>
+      <para id="id10378628">You need to show that you know how your work can be applied in wider circumstances. Otherwise it may look as if your knowledge is more limited than it is. Colleges, universities, and corporations hire those who bring broad skill sets to a job, not those who appear limited to one narrow application.</para>
+    </section>
+    <section id="id-0376628485024">
+      <title>Not proofreading for consistent headings, missing citations, gaps in your logic, missing words, grammatical errors, and spelling errors. </title>
+      <para id="id10895697">Ask someone to help you with proofreading because we all tend to see what we think is there. Don’t try to proofread for everything at the same time. Read through looking just at headings, then for errors in citation, then for gaps between paragraphs and sentences. If you have a manuscript full of errors, readers will tend to think that your research has also been poorly done.</para>
+    </section>
+  </content>
+</document>

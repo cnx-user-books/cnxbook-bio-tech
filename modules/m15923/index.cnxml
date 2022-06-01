@@ -1,0 +1,130 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Thesis Overview</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>c0babf24-1598-4ca0-8127-0c30fd842fa9</md:uuid>
+</metadata>
+  <content>
+    <section id="id-871624737036">
+      <title>What is a thesis? What should be in it?</title>
+      <para id="id11765558">The word “thesis” has two meanings, both of which are applicable to your writing. First, the word refers to either a Master’s Thesis or a PhD Thesis (dissertation). Additionally, the word “thesis” signals the fact that your thesis must be a work of persuasive argumentation. You first make a statement defining the focus of your research (the problem/question/issue that needed to be solved) and signal your results. Then, through evidence and reasoning, you persuade your committee of the validity of your research.</para>
+      <para id="id12019978">
+        <emphasis>Every thesis, either Master’s or PhD, must tell a compelling and exciting story about important original research. In the process of telling that story, you must answer, clearly and precisely, the following key questions:</emphasis>
+      </para>
+      <list list-type="bulleted" id="id11594333">
+        <item>What <emphasis>problem/question/issue</emphasis> does your thesis focus on? </item>
+        <item>Why is it <emphasis>important</emphasis>?</item>
+        <item>How does your work fit into the <emphasis>intellectual context of your field</emphasis>?</item>
+        <item>What <emphasis>experimental design / methods</emphasis> did you use? Why did you choose those methods? What difficulties did you encounter along the way? How did you solve (or not) those difficulties?</item>
+        <item>What are your research <emphasis>results</emphasis>? How do they differ from what you had expected or from what had previously been done by others? What <emphasis>evidence</emphasis> do you have to support those results? What <emphasis>conclusions</emphasis> did you reach?</item>
+        <item>What, specifically, is your <emphasis>unique contribution</emphasis>?</item>
+        <item>What are some <emphasis>possible applications</emphasis>, either practical or theoretical, of your findings? What <emphasis>future work</emphasis> does your thesis suggest?</item>
+      </list>
+      <para id="id12140066">In sum, you are writing a fascinating work of non-fiction, complete with beginning, middle, and end. Your readers should be drawn smoothly from one essential page to the next. You must tell</para>
+      <list list-type="bulleted" id="id12223148">
+        <item>
+          <emphasis>what you did</emphasis>
+        </item>
+        <item>
+          <emphasis>why you did it</emphasis>
+        </item>
+        <item>
+          <emphasis>how you did it </emphasis>
+        </item>
+        <item>
+          <emphasis>with what results, and</emphasis>
+        </item>
+        <item>
+          <emphasis>why we should care (so what). </emphasis>
+        </item>
+      </list>
+      <para id="id12406143">In other words, you must <emphasis>explain</emphasis> your work to your reader. If you write to the person on your committee who is least familiar with your work, that will help you decide the level of detail and explanation needed. My experience says that most graduate students need to explain more fully. Think back to when you weren’t so familiar with the subject. Leave no gaps in your argument; omit no essential step in your thinking. Include what didn’t work as well as what did work. Get comments from someone who can evaluate the technical content <emphasis>and</emphasis> from someone not so familiar with your work.</para>
+      <para id="id10921596">If you are incorporating published papers into your thesis, at minimum they need to be tied together and explained in an overarching Introduction and then summarized in a final chapter. Ideally, however, you will expand a published paper so that you can go into greater detail on answering the Seven Key Questions. Published papers by necessity are short; a thesis gives you the opportunity to give greater depth to your explanations and examples. It can be exciting to talk in detail about work that has been so absorbing and important to you.</para>
+      <para id="id12464897">Writing a thesis is hard work because you must organize and explain such a huge amount of material. I am convinced, though, that the effort is worthwhile because you learn so much during the process. <emphasis>Everything you learn about writing accurately, clearly, and concisely you will use over and over in your professional life.</emphasis></para>
+      <para id="id12282628">Remember to <emphasis>use the required thesis margins: one and a half inches left; one inch top, right, and bottom.</emphasis> The page number does not have to follow the one-inch margin rule; do what your software wants to do with a page number.</para>
+    </section>
+    <section id="id-827008141835">
+      <title>THESIS CONTENTS:</title>
+      <section id="id-562174395348">
+        <title>Copyright notice (if applicable; not all theses are copyrighted)</title>
+        <para id="id10661363">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id-997858296624">
+        <title>Title page </title>
+        <para id="id12022110">Signed by your committee; take 4 copies on 100% cotton rag or 20 lb. bond paper to your defense</para>
+      </section>
+      <section id="id-658546582922">
+        <title>Abstract (350 words for Ph.D.; 150 words for a Masters)</title>
+        <para id="id11924590">The abstract must summarize the contents of the thesis, not merely say what it is about. Write it last because you must have written the Introduction and Conclusion before you can summarize their main ideas in the Abstract.</para>
+        <para id="id12822817">The first sentence should identify the research problem and signal your method(s) and your results. Then move to details, which must include a clear definition of the problem addressed and its importance, the intellectual context of the problem within your field, your methods, the most important of your findings (be specific!), your unique contribution, and possible applications. You may want to include possible future work suggested by your findings, as well.</para>
+      </section>
+      <section id="id-090152959005">
+        <title>Acknowledgments</title>
+        <para id="id10714680">Try to limit this to one page. Thank your committee first; then team members and others who helped you; and, finally, your family. Be generous, but not flowery.</para>
+      </section>
+      <section id="id-920373954559">
+        <title>Table of Contents</title>
+        <para id="id3209820">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id-207044481486">
+        <title>List of Tables and Figures (if needed)</title>
+        <para id="id10869740">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id-2601623285">
+        <title>List of Definitions (if needed). </title>
+        <para id="id12787730">If your thesis is interdisciplinary, you will almost always need to include definitions.</para>
+      </section>
+      <section id="id-15222086199">
+        <title>Preface (optional; most theses omit this)</title>
+        <para id="id10865746">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id-0448539472515">
+        <title>Text (The body chapters)</title>
+        <section id="id-360737027213">
+          <title>Chapter 1. Introduction: </title>
+          <para id="id12787693">This chapter provides an overview of the thesis as a whole; it does not simply give background. The first sentence should identify the problem and signal your results. Then move to a more detailed overview of problem, importance, method, intellectual context, and your findings. The last paragraph usually briefly lists what will be covered in subsequent chapters. You can usually do it in one sentence per chapter; try to vary the sentence style.</para>
+          <para id="id12161468">The Introduction is often short, perhaps some 10 pages. Write it after you have written the body chapters and the Conclusion so that you know just what you are introducing.</para>
+        </section>
+        <section id="id-743983928929">
+          <title>Chapter 2. Background and Literature Review: </title>
+          <para id="id11400848">Here is the place you situate your work in the field. Your goal is to show that you understand how your work fits into and contributes to the context of the wider research field. Include only references to previous work important to your research project. </para>
+          <para id="id11993698">The chapter can be organized either thematically or chronologically. Summarize the major contribution of each of the works cited; show how each work relates to what came before or to contemporaneous research; identify issues; link each previous work to your research as well. It should be clear why we are reading about a particular work and how it relates to your thesis research.</para>
+          <para id="id10327977">Refer to authors by name, not as “[10] then applied this algorithm to the thixotropic properties of ketchup.” Be careful to differentiate your work from that of others. </para>
+          <para id="id12526603">The main difficulties I see in Lit Reviews: 1) insufficient summary of the main contribution of the author cited; 2) unclear delineation of the issues; 3) unclear chronology of how one work led to another; 4) unclear link between your work and the work of other researchers (why we are reading about this contribution); and 5) insufficient differentiation of your work from that of other researchers: “It has been discovered that….” with no indication that YOU did the discovering.</para>
+          <para id="id12411324">Note: Some advisors prefer that the Introduction and Chapter 2 be combined. If so, you must still introduce the thesis as a whole rather than simply giving “background.” In some theses, too, especially those based on published papers, you may want to put the lit review at the beginning of each “paper” chapter rather than combining them in Chapter 1 or Chapter 2. All the necessities listed above about differentiation and linking still apply, however.</para>
+        </section>
+        <section id="id-487237148513">
+          <title>Chapter 3. Materials and Methods: </title>
+          <para id="id11849658">You may not need a chapter on this; it depends on the sort of research you are doing. You may be able to include the necessary material in a short section of each main chapter, though you will also have to identify your methods in the Abstract and in the Introduction. Do not include details of your research or discuss your findings in this chapter. If you do need this chapter, it may be a good one to start writing first.</para>
+        </section>
+        <section id="id-0892968622368">
+          <title>Chapters 4, 5, and 6: </title>
+          <para id="id11434409">These chapters make up the main portion of your thesis and give <emphasis>details of your research</emphasis>. You may need two chapters for this or more than three, depending on your work. These chapters do not simply present your data, however. You must <emphasis>explain what you did, why you did it, how you did it, and with what results.</emphasis> Strive for a coherent narrative; show your enthusiasm for the subject. [If you’re not enthusiastic, fake it.] The average chapter is 30-40 pages long in a PhD thesis; chapters will usually be shorter in a Master’s thesis.</para>
+          <para id="id11924617">Keep in mind that as your research progresses, your research focus may well be modified because of unexpected good or bad results, time strictures, equipment failure, ineffective procedures, or (oh, please, no!) errors. In that case, you will have to make the modifications throughout the entire thesis.</para>
+          <para id="id11727140">Do NOT expect simply to lift whole chunks from your proposal. They were written before you had finished your research and the chunks will probably have to be modified to some extent. The “before” and “after” perspectives change what you say.</para>
+          <para id="id11617121">Some advisors will not allow you to discuss your results in the immediate context of your findings, preferring the discussion to be done separately at the end of the chapter or even not until the Conclusions chapter. Some advisors, including me, prefer an integrated discussion because it is easier for a reader to understand. However, always do what your advisor prefers!</para>
+        </section>
+        <section id="id-187145786131">
+          <title>Chapter 7. Conclusion: </title>
+          <para id="id11739128">Here you summarize and discuss your results and their implications. It usually ends with a short section on possible future work. This chapter is also often short, perhaps some 10 pages.</para>
+          <para id="id11951896">Always write this chapter before you write your Abstract because often your ideas come together clearly as you write it. <emphasis>Then reread your Conclusion and your Introduction before you write the Abstract.</emphasis></para>
+          <list list-type="bulleted" id="id11596122">
+            <item><emphasis>Bibliography or Works Cited:</emphasis> Include only those works actually mentioned in the text. Include ALL the works cited in the text, including citations on graphics. The form for the Bibliography varies by field and software. (Either Endnote or Latex is a good choice.) Completeness, accuracy, and consistency are essential, however. You’ll have to proofread carefully no matter what software you use. (Check the accuracy of your bibliography on those days when you can’t force yourself to write; the work will keep you from feeling guilty.)</item>
+          </list>
+          <list list-type="bulleted" id="id12148553">
+            <item><emphasis>Appendices:</emphasis> These are optional because many theses do not need them. Use an appendix for material too lengthy or tangential to include in the text, but which is material that some readers may need for reference. Lengthy proofs, lists of data, or computer code, for example, would fit into this category. Refer to all appendices in the body of your thesis.</item>
+          </list>
+</section>
+          <para id="id12274988"><note id="idm895360">Check the Rice University web site <link url="http://www.rice.edu/">www.rice.edu</link> to download up-to-date university requirements for thesis procedures and thesis format. Do this NOW to see if the requirements have changed since the last update on 6/2006.</note></para>
+          <para id="id12053919">Janice L. Hewitt, Ph.D., Rice University, 2008 jhewitt@rice.edu</para>
+        
+      </section>
+    </section>
+  </content>
+</document>
